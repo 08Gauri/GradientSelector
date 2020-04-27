@@ -1,0 +1,16 @@
+body{
+	background: linear-gradient(to right,#0000ff ,#00ff00);
+	text-align: center;
+}
+
+h1
+{
+	font-family: 'Bangers', cursive;
+	font-size: 60px;
+
+}
+
+h2{
+	font-family: 'Girassol', cursive;
+}
+
